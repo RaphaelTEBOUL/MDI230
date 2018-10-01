@@ -1,13 +1,1 @@
-# MACS
-# MACS
-# MACS
-# SD
-# SD
-# SD
-# SD
-# SD
-# MACS
-# MACS
-# Stochastic_Calculus
-# SD-TSIA
-# MDI230
+Project I did on Paris bikes during my course on queueing theory at Telecom Paristech
